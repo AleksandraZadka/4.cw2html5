@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Galery</title>
+  <meta name="description" content="">
+  <meta name="author" content="Alex">
+
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+  <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+  <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp2/css/bootstrap.min.css" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="Cw1AZcss.css"/>
+</head>
+<body>
+   <div class="galeria">
+             
+            
+               <div class="slide active-slide"><img class="slide-img" src="SAM_1599.jpg"/></div>
+               <div class="slide slide-feature"><img class="slide-img" src="SAM_0551.jpg"/></div>
+               <div class="slide"><img class="slide-img" src="SAM_1793.jpg"/></div>
+               <div class="slide"><img class="slide-img" src="SAM_0559.jpg"/></div>
+               <div class="slide"><img class="slide-img" src="SAM_0607.jpg"/></div>
+               <div class="slide"><img class="slide-img" src="Zdjęcie0969.jpg"/></div>
+               <div class="slide"><img class="slide-img" src="SAM_2364.jpg"/></div>
+         
+    </div>
+    
+      <a href="#" class="arrow-prev"><img src="prev.png"></a>
+      <a href="#" class="arrow-next"><img src="next.png"></a>
+    </div> 
+    </div> 
+
+
+ <hr noshade="noshade" />    
+  <div id="stopka">
+        <p>2014 <em>Aleksandra Zadka</em></p>
+        <p>Kopiowanie treści bez zgody autorki zabronione</p>
+    </div>
+ <script  src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+ <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js"></script>
+ <script  src="Cw2AZ.js"></script>
+</body>
+</html>

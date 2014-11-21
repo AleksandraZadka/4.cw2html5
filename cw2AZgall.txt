@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>testowa</title>
+  <meta name="description" content="">
+  <meta name="author" content="Alex">
+
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+  <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+  <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp2/css/bootstrap.min.css" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="Cw1AZcss.css"/>
+</head>
+
+<body>
+<div class="header">
+      <div class="container">
+        <a href="#" class="logo-icon">
+          <img  src="Digital-Brain1-940x429.jpg" >
+        </a>
+
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="Galery.html">Galery</a></li>
+          <li><a href="Kontakt.html">Contact</a></li>
+          
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle">More</a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Community</a></li>
+              <li><a href="#">Our Blog</a></li>
+              <li><a href="#">Maps Blog</a></li>
+              
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>    
+
+  <div id="Tresc">
+        <div class="Kroki">
+            <h2>KROK 1</h2>
+            <h4>In eu magna et dolor vulputate sagittis a at mauris</h4>
+            <h6>In enim eros</h6>
+            <p  class="akapit1">Sed commodo interdum est, nec imperdiet tortor bibendum vel. Suspendisse sed sollicitudin lacus. Nullam accumsan porttitor rhoncus. Sed sed eros faucibus, rhoncus dui at, sodales massa. Aliquam eu dictum dolor, at ultricies justo. Cras suscipit massa eu diam consequat elementum. In vestibulum sem nulla, eget fermentum turpis consequat eu. Duis faucibus neque sed est accumsan, a accumsan diam cursus. Curabitur eu sollicitudin diam. Vivamus rhoncus lorem tellus.</p>
+            <p class="akapit2">Cras a enim non quam eleifend mollis ac sed urna. Suspendisse commodo faucibus tortor sed rutrum. Aliquam condimentum rutrum velit eget aliquam. Curabitur leo lectus, semper non vestibulum id, hendrerit ut magna. Duis congue sodales mauris, quis maximus est lacinia eget. Donec pulvinar vitae augue sit amet gravida. Nunc ipsum leo, venenatis vitae tincidunt vel, scelerisque eget sapie</p>
+           
+        </div>
+        <div class="Kroki">
+            <h2>KROK 2</h2>
+            <h4>Duis eleifend nibh vitae turpis vulputate mattis vitae et mi</h4>
+            <h6>Integer aliquam turpis elit</h6>
+            <p class="akapit1">Praesent vel varius risus. Integer aliquam turpis elit, sed pulvinar turpis bibendum in. Vivamus faucibus facilisis tortor, vel varius sapien vestibulum sed. Suspendisse aliquet mi turpis, in blandit risus interdum at. Vestibulum quis augue quis elit accumsan interdum quis sit amet massa. Ut pharetra sem at sem interdum, vitae ultricies lacus semper. Nulla venenatis velit vitae maximus dignissim. Mauris ut lorem vel ipsum interdum tempor. Sed et dictum tortor.</p>
+            <p class="akapit2">In enim eros, ullamcorper in ex molestie, molestie cursus nisi. <span>In semper bibendum placerat.</span> Maecenas porta augue nec lobortis scelerisque.</span> Vestibulum sed libero finibus, pretium ligula et, ornare risus. Vivamus quis nulla sit amet metus molestie pellentesque eu non tortor. Suspendisse potenti. Maecenas mattis dui in turpis egestas, pharetra accumsan ipsum tempor. Curabitur faucibus eros nec luctus auctor.</p>
+           
+        </div>
+        <div class="Kroki">  
+            <h2>KROK 3</h2>
+            <h4>Curabitur vitae nisi sed sapien rutrum eleifend.</h4>
+            <h6>Sed et dictum tortor</h6>
+            <p class="akapit1">In efficitur pharetra nulla sit amet ullamcorper.<strong>Etiam vitae dapibus urna.Sed et dictum tortor.</strong>Duis lorem sapien, laoreet id sapien eu, suscipit porta augue. Aliquam at suscipit sapien. Mauris augue leo, ornare quis neque id, interdum volutpat est. Mauris fringilla vehicula orci, in tincidunt sem dictum ut.</p>
+            <p class="akapit2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Cras mollis ipsum, non ornare metus convallis. Nulla egestas semper efficitur. Morbi dui nisi, convallis eu purus pharetra, sollicitudin tempor risus. Integer sit amet velit elit. Nunc scelerisque convallis arcu, dignissim rutrum quam tincidunt non. Donec tempus aliquam efficitur. Nam gravida accumsan orci, ac bibendum nibh interdum tristique. Nullam mollis vestibulum commodo. Curabitur tincidunt, augue euismod efficitur euismod, arcu erat gravida enim, at tincidunt tortor elit vitae ante. Curabitur sit amet odio ac sapien facilisis sodales.</p> 
+                  
+        </div>            
+            
+  <hr noshade="noshade" />    
+  <div id="stopka">
+        <p>2014 <em>Aleksandra Zadka</em></p>
+        <p>Kopiowanie treści bez zgody autorki zabronione</p>
+    </div>
+ <script  src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+ <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js"></script>
+ <script  src="Cw2AZ.js"></script>
+</body>
+</html>
